@@ -6,6 +6,12 @@ GDS0641
 ## Link TikTok
 https://vm.tiktok.com/ZMkRAwKe2/
 
+## software a utilizar
+|Software|Versión|
+|--|--|
+|Thonny|4.1.6|
+|TikTok||
+
 ## Materiales a utilizar
 | Material | Imagen | Cantidad | Costo |
 |----------|--------|----------|-------|
