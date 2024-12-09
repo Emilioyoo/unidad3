@@ -6,6 +6,9 @@ GDS0641
 ## Link TikTok
 https://vm.tiktok.com/ZMkRAwKe2/
 
+## Fotos del proceso
+<br>
+
 ## Curso JavaScript en Netacad 
 
 -- EXAMENES--
