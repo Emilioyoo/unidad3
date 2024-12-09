@@ -33,6 +33,11 @@ https://vm.tiktok.com/ZMkRAwKe2/
 
 ## Fotos del proceso
 <br>
+<img src="https://github.com/user-attachments/assets/730669e0-8ddc-4369-83ab-9e6dec35dc03" width="250"/>
+<img src="https://github.com/user-attachments/assets/d8563f74-47b4-4b0c-8908-c679e6b8c751" width="250"/>
+
+## Codigo de Node-Red
+## Codigo Python
 
 ## Curso JavaScript en Netacad 
 
